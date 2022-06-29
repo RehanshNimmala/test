@@ -1,0 +1,10 @@
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\bin\Debug\NimmalaAssign3.exe.config
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\bin\Debug\NimmalaAssign3.exe
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\bin\Debug\NimmalaAssign3.pdb
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.csproj.AssemblyReference.cache
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.GamesRentalForm.resources
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.Properties.Resources.resources
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.csproj.GenerateResource.cache
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.csproj.CoreCompileInputs.cache
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.exe
+C:\MS\Spring-2022\C#-Prereq-Subject\Assignemnts\NimmalaAssign3\NimmalaAssign3\obj\Debug\NimmalaAssign3.pdb
