@@ -48,30 +48,27 @@ namespace NimmalaAssign3
             // lblFirstName
             // 
             this.lblFirstName.AutoSize = true;
-            this.lblFirstName.Location = new System.Drawing.Point(56, 25);
-            this.lblFirstName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblFirstName.Location = new System.Drawing.Point(75, 31);
             this.lblFirstName.Name = "lblFirstName";
-            this.lblFirstName.Size = new System.Drawing.Size(57, 13);
+            this.lblFirstName.Size = new System.Drawing.Size(73, 16);
             this.lblFirstName.TabIndex = 0;
             this.lblFirstName.Text = "First Name";
             // 
             // lblLastName
             // 
             this.lblLastName.AutoSize = true;
-            this.lblLastName.Location = new System.Drawing.Point(56, 66);
-            this.lblLastName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblLastName.Location = new System.Drawing.Point(75, 81);
             this.lblLastName.Name = "lblLastName";
-            this.lblLastName.Size = new System.Drawing.Size(58, 13);
+            this.lblLastName.Size = new System.Drawing.Size(73, 16);
             this.lblLastName.TabIndex = 1;
             this.lblLastName.Text = "Last Name";
             // 
             // lblTitle
             // 
             this.lblTitle.AutoSize = true;
-            this.lblTitle.Location = new System.Drawing.Point(56, 107);
-            this.lblTitle.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblTitle.Location = new System.Drawing.Point(75, 132);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(27, 13);
+            this.lblTitle.Size = new System.Drawing.Size(34, 16);
             this.lblTitle.TabIndex = 2;
             this.lblTitle.Text = "Title";
             // 
@@ -80,65 +77,65 @@ namespace NimmalaAssign3
             this.dtpRentDate.CustomFormat = "";
             this.dtpRentDate.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtpRentDate.ImeMode = System.Windows.Forms.ImeMode.Off;
-            this.dtpRentDate.Location = new System.Drawing.Point(377, 62);
-            this.dtpRentDate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dtpRentDate.Location = new System.Drawing.Point(503, 76);
+            this.dtpRentDate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dtpRentDate.Name = "dtpRentDate";
-            this.dtpRentDate.Size = new System.Drawing.Size(197, 20);
+            this.dtpRentDate.Size = new System.Drawing.Size(261, 22);
             this.dtpRentDate.TabIndex = 3;
             this.dtpRentDate.Value = new System.DateTime(2022, 2, 20, 0, 0, 0, 0);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(319, 66);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(425, 81);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(56, 13);
+            this.label1.Size = new System.Drawing.Size(68, 16);
             this.label1.TabIndex = 4;
             this.label1.Text = "Rent Date";
             // 
             // txtFirstName
             // 
             this.txtFirstName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtFirstName.Location = new System.Drawing.Point(136, 21);
-            this.txtFirstName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtFirstName.Location = new System.Drawing.Point(181, 26);
+            this.txtFirstName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtFirstName.Name = "txtFirstName";
-            this.txtFirstName.Size = new System.Drawing.Size(144, 20);
+            this.txtFirstName.Size = new System.Drawing.Size(191, 22);
             this.txtFirstName.TabIndex = 7;
             // 
             // txtLastName
             // 
             this.txtLastName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtLastName.Location = new System.Drawing.Point(136, 60);
-            this.txtLastName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtLastName.Location = new System.Drawing.Point(181, 74);
+            this.txtLastName.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtLastName.Name = "txtLastName";
-            this.txtLastName.Size = new System.Drawing.Size(144, 20);
+            this.txtLastName.Size = new System.Drawing.Size(191, 22);
             this.txtLastName.TabIndex = 8;
             // 
             // txtTitle
             // 
             this.txtTitle.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtTitle.Location = new System.Drawing.Point(136, 103);
-            this.txtTitle.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtTitle.Location = new System.Drawing.Point(181, 127);
+            this.txtTitle.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtTitle.Name = "txtTitle";
-            this.txtTitle.Size = new System.Drawing.Size(144, 20);
+            this.txtTitle.Size = new System.Drawing.Size(191, 22);
             this.txtTitle.TabIndex = 9;
             // 
             // lstReceipt
             // 
             this.lstReceipt.FormattingEnabled = true;
-            this.lstReceipt.Location = new System.Drawing.Point(28, 184);
-            this.lstReceipt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.lstReceipt.ItemHeight = 16;
+            this.lstReceipt.Location = new System.Drawing.Point(37, 226);
+            this.lstReceipt.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.lstReceipt.Name = "lstReceipt";
-            this.lstReceipt.Size = new System.Drawing.Size(302, 238);
+            this.lstReceipt.Size = new System.Drawing.Size(401, 292);
             this.lstReceipt.TabIndex = 10;
             // 
             // btnPrintReturnReceipt
             // 
-            this.btnPrintReturnReceipt.Location = new System.Drawing.Point(377, 103);
-            this.btnPrintReturnReceipt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnPrintReturnReceipt.Location = new System.Drawing.Point(503, 127);
+            this.btnPrintReturnReceipt.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnPrintReturnReceipt.Name = "btnPrintReturnReceipt";
-            this.btnPrintReturnReceipt.Size = new System.Drawing.Size(196, 48);
+            this.btnPrintReturnReceipt.Size = new System.Drawing.Size(261, 59);
             this.btnPrintReturnReceipt.TabIndex = 11;
             this.btnPrintReturnReceipt.Text = "Print Return Receipt";
             this.btnPrintReturnReceipt.UseVisualStyleBackColor = true;
@@ -147,10 +144,10 @@ namespace NimmalaAssign3
             // btnReset
             // 
             this.btnReset.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnReset.Location = new System.Drawing.Point(377, 167);
-            this.btnReset.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnReset.Location = new System.Drawing.Point(503, 206);
+            this.btnReset.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(196, 36);
+            this.btnReset.Size = new System.Drawing.Size(261, 44);
             this.btnReset.TabIndex = 12;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = false;
@@ -158,39 +155,39 @@ namespace NimmalaAssign3
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(377, 218);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnExit.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnExit.Location = new System.Drawing.Point(503, 268);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(196, 36);
+            this.btnExit.Size = new System.Drawing.Size(261, 44);
             this.btnExit.TabIndex = 13;
             this.btnExit.Text = "Exit";
-            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.UseVisualStyleBackColor = false;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(56, 137);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(75, 169);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(45, 13);
+            this.label3.Size = new System.Drawing.Size(57, 16);
             this.label3.TabIndex = 14;
             this.label3.Text = "Platform";
             // 
             // txtPlatform
             // 
             this.txtPlatform.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtPlatform.Location = new System.Drawing.Point(136, 133);
-            this.txtPlatform.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtPlatform.Location = new System.Drawing.Point(181, 164);
+            this.txtPlatform.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtPlatform.Name = "txtPlatform";
-            this.txtPlatform.Size = new System.Drawing.Size(144, 20);
+            this.txtPlatform.Size = new System.Drawing.Size(191, 22);
             this.txtPlatform.TabIndex = 15;
             // 
             // GamesRentalForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(600, 424);
+            this.ClientSize = new System.Drawing.Size(800, 522);
             this.Controls.Add(this.txtPlatform);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btnExit);
@@ -205,7 +202,7 @@ namespace NimmalaAssign3
             this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.lblLastName);
             this.Controls.Add(this.lblFirstName);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "GamesRentalForm";
             this.Text = "Game Hub";
             this.Load += new System.EventHandler(this.GamesRentalForm_Load);
